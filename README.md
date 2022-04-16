@@ -24,3 +24,5 @@ Check out these links:
 
 ### License
 This Game v1.0 Is Released Under The Boost Software License.
+
+**Copyright © To Abhay Mourya**
